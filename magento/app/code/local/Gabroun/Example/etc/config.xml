@@ -1,0 +1,24 @@
+<confi>
+    <modules>
+        <Gabroun_Example>
+            <version>0.1.0</version>
+        </Gabroun_Example>
+    </modules>
+    <global>
+        <model>
+            <example>
+                <class>Gabroun_Example_Model</class>
+            </example>
+        </model>
+        <block>
+            <example>
+                <class>Gabroun_Example_Block</class>
+            </example>
+        </block>
+        <helpers>
+            <example>
+                <class>Gabroun_Example_Helpers</class>
+            </example>
+        </helpers>
+    </global>
+</confi>

@@ -1,0 +1,9 @@
+<config>
+    <modules>
+        <Gabroun_Example>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends />
+        </Gabroun_Example>
+    </modules>
+</config>
